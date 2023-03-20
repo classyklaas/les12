@@ -1,0 +1,70 @@
+body {
+    background-color: lightblue;
+    text-align:center;
+}
+  
+h1 {
+    text-align:center;
+}
+
+#headerVanHomepage {
+    background-color:rgb(85, 85, 148)
+}
+
+#tabelVanHomepage {
+   width:80%;
+}
+
+#tabelHeader1 {
+    background-color:rgb(34, 134, 192)
+}
+#tabelHeader2 {
+    background-color:rgb(148, 85, 132)
+}
+#tabelHeader3 {
+    background-color:rgb(148, 147, 85)
+}
+#tabelHeader4 {
+    background-color:rgb(85, 148, 90)
+}
+#header1Rij1 {
+    background-color:rgb(148, 85, 93)
+}
+#header2Rij1 {
+    background-color:rgb(148, 113, 85)
+}
+#header3Rij1 {
+    background-color:rgb(85, 148, 90)
+}
+#header4Rij1 {
+    background-color:rgb(113, 148, 85)
+}
+#header1Rij2 {
+    background-color:rgb(148, 85, 129)
+}
+#header2Rij2 {
+    background-color:rgb(148, 100, 85)
+}
+#header3Rij2 {
+    background-color:rgb(130, 85, 148)
+}
+#header4Rij2 {
+    background-color:rgb(85, 130, 148)
+}
+#header1Rij3 {
+    background-color:rgb(131, 148, 85)
+}
+#header2Rij3 {
+    background-color:rgb(148, 85, 129)
+}
+#header3Rij3 {
+    background-color:rgb(85, 107, 148)
+}
+#header4Rij3 {
+    background-color:rgb(85, 148, 109)
+}
+
+#footerVanHomepage {
+    background-color:rgb(85, 85, 148);
+    text-align:left;
+}
